@@ -102,3 +102,10 @@ Sources:
 
 - [https://www.lostindetails.com/cheatsheet/docker/docker_blue_light1.pdf](https://www.lostindetails.com/cheatsheet/docker/docker_blue_light1.pdf)
 - [https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf)
+
+### [Kubernetes](https://kubernetes.io/)
+
+![Kubernetes cheat sheet 1](images/k8s-cs-1.jpeg)
+![Kubernetes cheat sheet 2](images/k8s-cs-2.jpeg)
+
+Source: [https://twitter.com/acloudguru/status/1342972471411159041](https://twitter.com/acloudguru/status/1342972471411159041) 
